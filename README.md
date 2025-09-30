@@ -38,9 +38,9 @@ Wel also used Normalized Gaussian Wasserstein Distance (NWD) for stable regressi
 ## ⚡ Performance  
 **TY-RIST** achieves state-of-the-art results on 4 benchmarks: +7.9% mAP@0.5 IoU, +3% Precision, +10.2% Recall, and 123 FPS on a single GPU.
 
-<!-- <p align="center">
-  <img src="datasetsamples.png" alt="Teaser image" width="80%">
-</p> -->
+<p align="center">
+  <img src="tyrist-gif-.gif" alt="Teaser image" width="100%">
+</p>
 
 ## 🛠️ Usage
 - For **research and academic purposes**, we provide access to the source code upon request. Please contact us at [your email].  
