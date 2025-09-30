@@ -23,9 +23,9 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="teaser.png" alt="Teaser image" width="80%">
-</p> -->
+<p align="center">
+  <img src="tryrist_teaser.jpg" alt="Teaser Image" width="100%">
+</p>
 
 <h4 align="center">🎉 Our paper has been accepted to the ICCV 2025 Workshop!</h4>
 
