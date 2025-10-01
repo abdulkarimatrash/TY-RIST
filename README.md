@@ -47,6 +47,13 @@ We also employ **Normalized Gaussian Wasserstein Distance (NWD)** for stable reg
   <img src="demo.gif" alt="Teaser image" width="60%">
 </p>
 
+## Access Request  
+If you would like to obtain access to this repository’s code, please complete the request form below:  
+
+👉 [Request Access Form](https://docs.google.com/forms/d/e/1FAIpQLSc0ZBASThyeSP9NB9fRWuWNnbBKPqZdmstn4sZj4aJagYCK_w/viewform)  
+
+All requests will be reviewed, and approved applicants will receive further instructions regarding licensing and access.
+
 ## 🛠️ Usage
 - For **research and academic purposes**, we provide access to the source code upon request. Please contact us at atrashabdulkarim@gmail.com 
 - For **commercial use**, please contact us at moured.omar@gmail.com
