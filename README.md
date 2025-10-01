@@ -31,9 +31,14 @@
 
 ## 🧠 About
 
-**TY-RIST** enhances detection models for real-time infrared small target detection (IRSTD) through multiple architectural tricks:  
-(1) Stride-aware backbone, (2) High-resolution detection head, (3) Cascaded coordinate attention, (4) Branch pruning.
-We also used Normalized Gaussian Wasserstein Distance (NWD) for stable regression.
+**TY-RIST** enhances real-time infrared small target detection (IRSTD) with:  
+1. Stride-aware backbone  
+2. High-resolution detection head  
+3. Cascaded coordinate attention  
+4. Branch pruning  
+
+We also employ **Normalized Gaussian Wasserstein Distance (NWD)** for stable regression.
+
 
 ## ⚡ Performance  
 **TY-RIST** achieves state-of-the-art results on 4 benchmarks: +7.9% mAP@0.5 IoU, +3% Precision, +10.2% Recall, and 123 FPS on a single GPU.
