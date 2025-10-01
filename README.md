@@ -48,7 +48,7 @@ We also employ **Normalized Gaussian Wasserstein Distance (NWD)** for stable reg
 </p>
 
 ## 🔒 Access Request  
-If you would like to obtain access to this repository’s code, please complete the request form below:  
+To request access to the code in this repository, please complete the form provided below.
 
 👉 [Request Access Form](https://docs.google.com/forms/d/e/1FAIpQLSc0ZBASThyeSP9NB9fRWuWNnbBKPqZdmstn4sZj4aJagYCK_w/viewform)  
 
