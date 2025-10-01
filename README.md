@@ -1,6 +1,6 @@
 <h2 align="center">✈️ TY-RIST: Tactical YOLO Tricks for Real-time Infrared Small Target Detection</h2> 
 <p align="center">
-  <a href="linkedin.com/in/abdulkarimatrash"><strong>Abdulkarim Atrash</strong></a>
+  <a href="https://www.linkedin.com/in/abdulkarimatrash"><strong>Abdulkarim Atrash</strong></a>
   ·
   <a href="https://www.linkedin.com/in/omar-moured/"><strong>Omar Moured</strong></a>
   ·
@@ -43,8 +43,8 @@ Wel also used Normalized Gaussian Wasserstein Distance (NWD) for stable regressi
 </p>
 
 ## 🛠️ Usage
-- For **research and academic purposes**, we provide access to the source code upon request. Please contact us at [your email].  
-- For **commercial use**, please contact us at [your email].
+- For **research and academic purposes**, we provide access to the source code upon request. Please contact us at atrashabdulkarim@gmail.com 
+- For **commercial use**, please contact us at moured.omar@gmail.com
   
 ## 📚 Citation
 ```bibtex
