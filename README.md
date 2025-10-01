@@ -41,7 +41,7 @@ We also employ **Normalized Gaussian Wasserstein Distance (NWD)** for stable reg
 
 
 ## ⚡ Performance  
-**TY-RIST** achieves state-of-the-art results on 4 benchmarks: +7.9% mAP@0.5 IoU, +3% Precision, +10.2% Recall, and 123 FPS on a single GPU.
+**TY-RIST** achieves state-of-the-art results on 4 benchmarks: +7.9% mAP@50 IoU, +3% Precision, +10.2% Recall, and 123 FPS on a single GPU.
 
 <p align="center">
   <img src="demo.gif" alt="Teaser image" width="60%">
